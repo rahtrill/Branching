@@ -1,6 +1,8 @@
 ## Git Cheat Sheet
 
 Overview of git commands.
+Text added on main branch
+to create a merge conflict.
 
 ### Basic Commands
 
