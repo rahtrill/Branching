@@ -13,4 +13,10 @@ to create a merge conflict.
 ### Information Commands
 
 * `git status` - status of local workspace
-* `git log` - show log of commits
+* `git log (--oneline)` - show log of commits
+* `git config -l` - list git configuration
+
+### Branching Commands
+* `git branch` - list local branches
+* `git branch branchName` - create branch `branchName`
+* `git checkout branchName` - switch to branch branchName
