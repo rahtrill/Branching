@@ -10,6 +10,7 @@
 
 * `git status` - status of local workspace
 * `git log (--oneline)` - show log of commits
+* `git config -l` - list git configuration
 
 ### Branching Commands
 * `git branch` - list local branches
