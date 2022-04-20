@@ -1,6 +1,10 @@
 ## Git Cheat Sheet
 
 Overview of git commands.
+
+Hey this is the newBranch stuff
+
+Git rocks!
 Text added on main branch
 to create a merge conflict.
 
